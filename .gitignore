@@ -1,0 +1,6 @@
+# Compiled Python files
+*.pyc
+
+# Files that might appear on external disks (apple)
+.Spotlight-v100
+.Trashes
