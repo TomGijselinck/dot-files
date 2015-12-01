@@ -6,3 +6,6 @@
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
+
+# virtualenvwrapper for python
+export WORKON_HOME=~/.venvs
